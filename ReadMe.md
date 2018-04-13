@@ -6,5 +6,7 @@
 
 
 **主动注册**
+
+*说明:  --env prod --product website --zabbixIP <zabbixIP>*
 ![Alt text](https://github.com/Aaron1989/ZabbixActiveRegistration/blob/master/Screenshots/zabbix-1.png)
 ![Alt text](https://github.com/Aaron1989/ZabbixActiveRegistration/blob/master/Screenshots/zabbix-2.png)
